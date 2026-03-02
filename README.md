@@ -57,7 +57,7 @@ High-converting UI-focused landing pages.
   <a href="https://github.com/jawasakher">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/jawasakher">
+  <a href="https://www.linkedin.com/in/jawasakher">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
