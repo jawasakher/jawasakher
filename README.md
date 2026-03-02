@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaصش Sakher</h1>
+<h1 align="center">Hi 👋, I'm Jawa Sakher</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Developer;Clean+Code+Advocate;Building+Modern+Web+Experiences" />
