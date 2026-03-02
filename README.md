@@ -8,11 +8,7 @@
   🚀 Passionate about building scalable, responsive and user-focused applications
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawasakher&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
----
 
 ### 🧠 About Me
 
@@ -43,32 +39,18 @@
 
 ### 📊 GitHub Power Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawasakher&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jawasakher&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawasakher&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
 ### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawasakher&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jawasakher/output/snake.svg" />
 </p>
 
 ---
