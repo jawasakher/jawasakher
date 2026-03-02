@@ -44,15 +44,16 @@ High-converting UI-focused landing pages.
 ### 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawasakher&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawasakher&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jawasakher&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawasakher&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=jawasakher&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawasakher&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ### 🌐 Let's Connect
 
@@ -60,7 +61,7 @@ High-converting UI-focused landing pages.
   <a href="https://github.com/jawasakher">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/jawa-sakher-964192391">
+  <a href="https://www.linkedin.com/jawa-sakher">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
