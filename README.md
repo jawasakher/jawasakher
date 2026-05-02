@@ -1,51 +1,58 @@
 <h1 align="center">Hi 👋, I'm Jawa Sakher</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Developer;JavaScript+Enthusiast;Python+Programmer;Clean+Code+Advocate;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+Developer;UI%2FUX+Focused+Builder;Modern+Web+Creator;Problem+Solver;Building+Digital+Experiences" />
 </p>
 
 <p align="center">
-  🚀 Passionate about building scalable, responsive and user-focused applications
+  🚀 Turning ideas into modern, responsive and high-performance digital products
 </p>
 
-
+---
 
 ### 🧠 About Me
 
-- 💻 Frontend Developer specialized in HTML, CSS, JavaScript, React
-- 🐍 Strong foundation in Python
-- ⚙️ Experienced with C++ & C#
-- 🎯 Focused on clean architecture & performance
-- 🌱 Always learning new technologies
+- 💻 Frontend Developer specialized in **HTML, CSS, JavaScript, React.js**
+- ⚡ Strong experience building **real-world projects & scalable interfaces**
+- 🎯 Focused on **clean code, reusable components & performance optimization**
+- 🔥 Passionate about transforming designs into interactive user experiences
+- 🌱 Constantly learning and improving through hands-on development
+- 📈 Building personal brand through tech content & professional presence
+- 🛠 Comfortable with **Git, GitHub, APIs, debugging & deployment**
+- 🐍 Additional experience with **Python, C++ & C#**
 
 ---
 
 ### 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,cs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,python,cpp,cs,git,github,vscode,firebase" />
 </p>
 
 ---
 
 ### 🚀 Featured Work
 
-🔹 Responsive Portfolio Website  
-🔹 React Task Management App (CRUD)  
-🔹 Modern Landing Pages  
-🔹 Programming Practice Projects  
+🔹 Modern Real Estate Platform (React + Responsive UI)  
+🔹 Full Landing Pages with Clean UX Structure  
+🔹 Task Management App (CRUD Operations)  
+🔹 Authentication & API Integrated Projects  
+🔹 Realtime Chat App Concept (Flutter + Firebase)  
+🔹 Portfolio Websites for Personal Brands & Businesses  
 
 ---
 
 ### 📊 GitHub Power Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawasakher&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jawasakher&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+---
 
 ### 📈 Activity Graph
 
@@ -74,5 +81,5 @@
 ---
 
 <p align="center">
-  ⚡ "Code is not just syntax — it's experience." ⚡
+  ⚡ "I don't just write code — I build experiences." ⚡
 </p>
