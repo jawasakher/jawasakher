@@ -18,14 +18,14 @@
   <a href="https://mostaql.com/u/jawaher_sakher">
     <img src="https://img.shields.io/badge/Mostaql-2D9CDB?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
-  <a href="mailto:jawaher.sakher.dev@gmail.com">
+  <a href="jawasakher@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Full-Stack Developer** focused on building modern web applications from the interface to the backend and database.
 
@@ -71,12 +71,7 @@ My development journey started with frontend development and grew into full-stac
 
 **PostgreSQL · SQL · Prisma ORM · Database Schemas · Migrations · CRUD · Relational Databases**
 
-### Authentication & Security
-
-**JWT · bcrypt · Password Hashing · Protected Routes · Authentication Flows · User Sessions**
-
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,cpp,cs" />
 </p>
@@ -91,6 +86,10 @@ My development journey started with frontend development and grew into full-stac
 
 **Git · GitHub · npm · VS Code · API Testing · Debugging · Deployment**
 
+### 🔐 Authentication & Security
+
+**JWT · bcrypt · Password Hashing · Protected Routes · Authentication Flows · User Sessions**
+
 ---
 
 ## 🚀 Featured Projects
@@ -100,19 +99,6 @@ My development journey started with frontend development and grew into full-stac
 **React · Vite · Tailwind CSS · Clerk · REST APIs**
 
 A modern real-estate platform focused on responsive UI, property discovery, authentication, dashboards, reusable components, and user interactions.
-
-**Highlights**
-
-* Responsive real-estate interface
-* Authentication
-* Property browsing
-* Owner dashboard
-* Property management
-* Booking functionality
-* Reusable UI components
-* API integration
-* SEO improvements
-* Arabic language support
 
 <p>
   <a href="https://github.com/jawasakher/Nexora-Estates">
@@ -130,19 +116,6 @@ A modern real-estate platform focused on responsive UI, property discovery, auth
 **React · Node.js · Express · JWT · bcrypt · REST API**
 
 A full-stack AI chatbot application combining a React frontend with a Node.js/Express backend.
-
-**Highlights**
-
-* User registration and login
-* JWT authentication
-* Password hashing with bcrypt
-* User-specific conversations
-* Message history
-* Streaming AI responses
-* REST API
-* Backend/frontend integration
-* Database-backed application structure
-* Production deployment
 
 <p>
   <a href="https://github.com/jawasakher/Aivora-AI-Chatbot">
@@ -162,6 +135,9 @@ A full-stack AI chatbot application combining a React frontend with a Node.js/Ex
 An e-learning platform focused on creating a structured and responsive learning experience.
 
 <p>
+  <a href="https://github.com/jawasakher/E-Learning-Platform">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://e-learning-platform-24.jawasakher.workers.dev/">
     <img src="https://img.shields.io/badge/Live_Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -169,16 +145,22 @@ An e-learning platform focused on creating a structured and responsive learning 
 
 ---
 
-### 🌐 Personal Portfolio
+### 💼 Modern Developer Portfolio
 
-My developer portfolio showcasing projects, technical skills, and my journey toward full-stack development.
+**React · Vite · Tailwind CSS · Responsive Design**
+
+A modern developer portfolio designed to showcase projects, technical skills, and professional work.
 
 <p>
+  <a href="https://github.com/jawasakher/Modern-Developer-Portfolio">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://jawasakher-portfolio.jawasakher.workers.dev/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Overview
 
@@ -190,11 +172,12 @@ My developer portfolio showcasing projects, technical skills, and my journey tow
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawasakher&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:jawaher.sakher.dev@gmail.com">
+  <a href="jawasakher@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -208,3 +191,4 @@ My developer portfolio showcasing projects, technical skills, and my journey tow
 <p align="center">
   <i>Turning ideas into reliable digital products.</i>
 </p>
+
