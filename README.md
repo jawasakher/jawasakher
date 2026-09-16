@@ -179,38 +179,6 @@ My developer portfolio showcasing projects, technical skills, and my journey tow
   </a>
 </p>
 
----
-
-## 🧠 Currently Learning
-
-```text
-Backend Development
-        ↓
-Node.js + Express
-        ↓
-REST APIs
-        ↓
-PostgreSQL
-        ↓
-Prisma ORM
-        ↓
-Authentication & Security
-        ↓
-Full-Stack Architecture
-```
-
-I'm currently deepening my understanding of:
-
-* Backend architecture
-* REST API design
-* PostgreSQL
-* Prisma
-* Database relationships
-* Authentication & authorization
-* API security
-* Full-stack application architecture
-
----
 
 ## 📊 GitHub Overview
 
@@ -219,49 +187,16 @@ I'm currently deepening my understanding of:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawasakher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawasakher&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/jawasakher">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawasakher&theme=tokyo-night&hide_border=true&area=true&custom_title=Jawa%20Sakher's%20GitHub%20Activity" alt="Jawa Sakher GitHub Activity Graph" />
-  </a>
-</p>
-
----
 
 ## 🔗 Connect With Me
 
 <p align="center">
-
-  <a href="https://github.com/jawasakher">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jawasakher">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://mostaql.com/u/jawaher_sakher">
-    <img src="https://img.shields.io/badge/Mostaql-2D9CDB?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
-
   <a href="mailto:jawaher.sakher.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://jawasakher-portfolio.jawasakher.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
 </p>
 
 ---
