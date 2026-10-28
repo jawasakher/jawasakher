@@ -15,9 +15,7 @@
   <a href="https://www.linkedin.com/in/jawasakher">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mostaql.com/u/Jawa_Sakher">
-    <img src="https://img.shields.io/badge/Mostaql-2D9CDB?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
+ 
   <a href="mailto:jawasakher@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
